@@ -1,7 +1,9 @@
 🍔 Online Food Ordering System – Backend Application
+
 📌 Project Overview :
 This project is a backend-only REST API for an Online Food Ordering System, developed using Java and Spring Boot.
 It handles user authentication, food and order management, and secure API communication, following real-world backend architecture.
+
 🛠️ Tech Stack :
 
 Java
@@ -13,7 +15,7 @@ RESTful APIs
 MySQL
 Maven
 
-✨ Key Features
+✨ Key Features :
 
 User registration and login
 JWT-based authentication and authorization
@@ -23,14 +25,16 @@ Order placement and order status management
 Cart functionality
 Secure REST APIs
 Global exception handling
-🧩 API Modules
+
+🧩 API Modules:
+
 Authentication Module
 User Module
 Food/Menu Module
 Order Module
 Cart Module
 
-🧱 Backend Architecture
+🧱 Backend Architecture :
 
 Controller Layer
 Service Layer
